@@ -1,0 +1,2 @@
+# Implementación manual del algoritmo de Naive-Bayes
+Este es un ejercicio realizado como proyecto para la asignatura de Aprendizaje Automático (AA) de 4º de Ingeniería Informática. En el, se implementa un algoritmo de Naive-Bayes desde el punto de vista "low-level" y aplicando las formulaciones matemáticas/estadísticas detrás de este, para posteriormente compararlo con el mismo algoritmo llamado desde la famosa librería de `scikit-learn`.
